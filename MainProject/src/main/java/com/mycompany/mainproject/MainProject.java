@@ -7,5 +7,6 @@ public class MainProject {
         System.out.println("Este es un comentario de prueba");
         System.out.println("Hello World!");
         System.out.println("Nueva modificacion");
+        System.out.println("Comienzo de Proyecto");
     }
 }
